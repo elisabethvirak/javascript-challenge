@@ -36,5 +36,4 @@ function runEnter() {
   var filterTable = tableData.filter(info => info.datetime === valueDateInput);
   console.log(filterTable);
   filterTable.map()
-
 }
